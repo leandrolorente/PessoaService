@@ -1,0 +1,6 @@
+@PessoaService.API_HostAddress = http://localhost:5213
+
+GET {{PessoaService.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
